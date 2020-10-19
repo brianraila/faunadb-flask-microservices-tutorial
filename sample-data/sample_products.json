@@ -1,0 +1,58 @@
+[
+    {
+        "title":"iPhone 7 - 128GB (Black)",
+        "description": "A description of the iPhone 7 - 128GB",
+        "price":70000,
+        "currency":"KES",
+        "image":"https://img.app/iphone-7-128gb-black",
+        "color":"black",
+        "categories":["devices", "electronics"],
+        "slug":"iphone-7-128gb-black",
+        "status":"available"
+    },
+    {
+        "title":"Samsung Galaxy S8 - 128GB (Black)",
+        "description": "A description of the Samsung Galaxy S8",
+        "price":60000,
+        "currency":"KES",
+        "image":"https://img.app/samsung-galaxy-s8-black",
+        "color":"black",
+        "categories":["devices", "electronics"],
+        "slug":"samsung-galaxy-s8-black",
+        "status":"available"
+    },
+    {
+        "title":"Nokia 2.2 - 32GB (White)",
+        "description": "A description of the Nokia 2.2",
+        "price":20000,
+        "currency":"KES",
+        "image":"https://img.app/nokia-2-2-32gb-white",
+        "color":"white",
+        "categories":["devices", "electronics"],
+        "slug":"nokia-2-2-32gb-white",
+        "status":"available"
+    },
+    {
+        "title":"Fauna T-Shirt (White)",
+        "description": "A description of the white Fauna T-Shirt",
+        "price":1000,
+        "currency":"KES",
+        "image":"https://img.app/fauna-t-shirt-white",
+        "color":"white",
+        "categories":["clothing", "t-shirt"],
+        "slug":"fauna-t-shirt-white",
+        "status":"available"
+    },
+    {
+        "title":"Fauna T-Shirt (Blue)",
+        "description": "A description of the blue Fauna T-Shirt",
+        "price":1500,
+        "currency":"KES",
+        "image":"https://img.app/fauna-t-shirt-blue",
+        "color":"blue",
+        "categories":["clothing", "t-shirt"],
+        "slug":"fauna-t-shirt-blue",
+        "status":"available"
+    }
+
+]

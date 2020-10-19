@@ -8,10 +8,11 @@ def create_app():
     app.config.from_mapping( SECRET_KEY=os.environ.get('SECRET_KEY') or 'you-will-never-guess',)
     
 
-    from app.services import index
+    from app.services import index, products, reviews
 
-    # app.register_blueprint(auth.bp)
     app.register_blueprint(index.bp)
+    app.register_blueprint(products.bp)
+    app.register_blueprint(reviews.bp)
 
 
 

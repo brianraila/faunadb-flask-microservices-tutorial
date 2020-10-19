@@ -1,0 +1,30 @@
+[
+    {
+        "product":"",
+        "title":"Excellent Service",
+        "text":"Works perfectly",
+        "rating":5,
+        "reviewer":"Brian R."
+    },
+    {
+        "product":"",
+        "title":"Perfect",
+        "text":"Works perfectly. I like it.",
+        "rating":3,
+        "reviewer":"Travis Scott"
+    },
+    {
+        "product":"",
+        "title":"Good service",
+        "text":"Prompt delivery",
+        "rating":3,
+        "reviewer":"Young Thugger"
+    },
+    {
+        "product":"",
+        "title":"Fantastic",
+        "text":"Can't wait to start taking pics",
+        "rating":5,
+        "reviewer":"Frank Ocean"
+    }
+]
