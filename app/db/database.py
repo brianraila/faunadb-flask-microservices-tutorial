@@ -1,4 +1,4 @@
 from faunadb.client import FaunaClient
-from app.config import FAUNA_SECRET_KEY
+from app.config import FAUNA_SECRET
 
-client = FaunaClient(secret=FAUNA_SECRET_KEY)
+client = FaunaClient(secret=FAUNA_SECRET)
