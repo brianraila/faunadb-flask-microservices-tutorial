@@ -1,7 +1,7 @@
 import os
 
 # fauna database configuration
-FAUNA_SECRET_KEY = os.environ["FAUNA_SECRET_KEY"]
+FAUNA_SECRET = os.environ["FAUNA_SECRET_KEY"]
 
 
 # email configuration
