@@ -1,5 +1,6 @@
-#### 
+#### Microservices with Flask and FaunaDB
 
+<img src="https://github.com/brianraila/faunadb-flask-microservices-tutorial/raw/master/banner.png"/>
 
 
 This is the sample code for How to build microservices for a classic e-commerce backend structure with Fauna and Python - deployed to Vercel
